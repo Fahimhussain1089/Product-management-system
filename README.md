@@ -1,1 +1,1 @@
-# Product-management-system
+# 01_spring_jdbc
